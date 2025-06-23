@@ -68,7 +68,7 @@ const Hero = () => {
               {/* Main Hero Image - Complete Product Collection */}
               <div className="relative mb-6">
                 <img
-                  src="/lovable-uploads/393b922c-01a4-488c-885f-82a0b49ab017.png"
+                  src="/palmentar-web-main/images/img3.png"
                   alt="PALMENTAR Complete Premium Products Collection - Juliet, Soft Silk, SABA, MediTwist, Fresh Day"
                   className="w-full h-64 object-cover rounded-2xl"
                 />
@@ -83,7 +83,7 @@ const Hero = () => {
                 <div className="space-y-3">
                   <div className="relative h-24 bg-gradient-to-br from-brand-secondary/20 to-brand-secondary/10 rounded-xl overflow-hidden">
                     <img
-                      src="/lovable-uploads/63d4e015-a26c-45fa-9938-058d99941d83.png"
+                      src="/palmentar-web-main/images/img8.png"
                       alt="Juliet Elegance Premium Beauty Soap"
                       className="w-full h-full object-cover"
                     />
@@ -97,7 +97,7 @@ const Hero = () => {
                 <div className="space-y-3">
                   <div className="relative h-24 bg-gradient-to-br from-brand-accent/20 to-brand-accent/10 rounded-xl overflow-hidden">
                     <img
-                      src="/lovable-uploads/7e55e838-a2c1-4dfd-a895-4c1d3ad7e6a6.png"
+                      src="/palmentar-web-main/images/img5.png"
                       alt="Soft Silk Luxury Beauty Soap Collection"
                       className="w-full h-full object-cover"
                     />
@@ -111,7 +111,7 @@ const Hero = () => {
                 <div className="space-y-3">
                   <div className="relative h-24 bg-gradient-to-br from-brand-secondary/20 to-brand-accent/20 rounded-xl overflow-hidden">
                     <img
-                      src="/lovable-uploads/7693c331-d91d-4719-94ed-4e6860053aa8.png"
+                      src="/palmentar-web-main/images/img9.png"
                       alt="MediTwist Antibacterial Protection Soap"
                       className="w-full h-full object-cover"
                     />
@@ -125,7 +125,7 @@ const Hero = () => {
                 <div className="space-y-3">
                   <div className="relative h-24 bg-gradient-to-br from-brand-accent/20 to-brand-secondary/20 rounded-xl overflow-hidden">
                     <img
-                      src="/lovable-uploads/21e9d7fc-ce62-49b3-a804-ee6f5fd58717.png"
+                      src="/palmentar-web-main/images/img10.png"
                       alt="ZENTA & SABA Professional Cleaning Products"
                       className="w-full h-full object-cover"
                     />

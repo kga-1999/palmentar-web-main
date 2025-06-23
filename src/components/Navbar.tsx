@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import { Link, useLocation } from 'react-router-dom';
@@ -39,7 +38,7 @@ const Navbar = () => {
           {/* Logo Section */}
           <Link to="/" className="flex items-center space-x-3">
             <img 
-              src="/lovable-uploads/57225d93-bcd9-4bfc-894d-e0d8e5f941f5.png" 
+              src="/palmentar-web-main/images/logo.png" 
               alt="PALMENTAR Logo" 
               className="h-16 w-auto"
             />

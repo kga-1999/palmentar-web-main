@@ -9,7 +9,7 @@ const ProductsSection = () => {
       name: 'Juliet Elegance Collection',
       category: 'Beauty Soaps',
       price: '$25',
-      image: '/lovable-uploads/393b922c-01a4-488c-885f-82a0b49ab017.png',
+      image: '/palmentar-web-main/images/img1.png',
       description: 'Premium beauty soap collection with natural ingredients for radiant skin',
       rating: 4.9,
       features: ['Natural Ingredients', 'Skin Brightening', 'Long-lasting Fragrance', 'Multiple Variants']
@@ -19,7 +19,7 @@ const ProductsSection = () => {
       name: 'MADINA Premium Range',
       category: 'Premium Care',
       price: '$35',
-      image: '/lovable-uploads/6c172300-8134-4b34-aa91-cd3cdf293cce.png',
+      image: '/palmentar-web-main/images/img2.png',
       description: 'Complete MADINA collection with multiple variants for comprehensive care',
       rating: 4.8,
       features: ['Complete Collection', 'Multiple Variants', 'Premium Quality', 'Value Pack']
@@ -29,7 +29,7 @@ const ProductsSection = () => {
       name: 'Fresh Day Daily Care',
       category: 'Personal Care',
       price: '$20',
-      image: '/lovable-uploads/ea1fbeb2-299b-4f82-957a-e058b1026ea6.png',
+      image: '/palmentar-web-main/images/img6.png',
       description: 'Daily freshness soap for active lifestyle and all-day confidence',
       rating: 4.8,
       features: ['Daily Freshness', 'Active Protection', 'Refreshing Scent', 'Long-lasting']
@@ -39,7 +39,7 @@ const ProductsSection = () => {
       name: 'MediTwist Antibacterial',
       category: 'Health Care',
       price: '$30',
-      image: '/lovable-uploads/7693c331-d91d-4719-94ed-4e6860053aa8.png',
+      image: '/palmentar-web-main/images/img3.png',
       description: 'Advanced antibacterial soap that removes 99.99% of germs and bacteria',
       rating: 4.9,
       features: ['99.99% Germ Protection', 'Antibacterial Formula', 'Safe for Daily Use', 'Herbal Protection']
@@ -49,7 +49,7 @@ const ProductsSection = () => {
       name: 'SABA Professional Range',
       category: 'Cleaning',
       price: '$18',
-      image: '/lovable-uploads/583e4f51-b60f-4b6b-835e-bda9dea81400.png',
+      image: '/palmentar-web-main/images/img4.png',
       description: 'Professional cleaning solutions for home and commercial use',
       rating: 4.7,
       features: ['Professional Grade', 'Multi-Purpose', 'Power Formula', 'Eco-Friendly']
@@ -59,7 +59,7 @@ const ProductsSection = () => {
       name: 'Complete Product Range',
       category: 'Premium Collection',
       price: '$85',
-      image: '/lovable-uploads/4b6bdb08-dd66-4d1f-b1e7-c8008a1affc7.png',
+      image: '/palmentar-web-main/images/img5.png',
       description: 'Ultimate collection featuring all PALMENTAR premium products',
       rating: 4.9,
       features: ['Complete Range', 'All Brands', 'Premium Packaging', 'Best Value']
@@ -94,7 +94,7 @@ const ProductsSection = () => {
         <div className="mb-16 grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="glass dark:glass-dark rounded-2xl p-8 luxury-shadow overflow-hidden relative">
             <img
-              src="/lovable-uploads/c0d54b07-5352-470c-8d9e-d34dfbf06165.png"
+              src="/palmentar-web-main/images/img6.png"
               alt="SABA Multi-Purpose Solutions"
               className="w-full h-48 object-cover rounded-xl mb-6"
             />
@@ -107,7 +107,7 @@ const ProductsSection = () => {
 
           <div className="glass dark:glass-dark rounded-2xl p-8 luxury-shadow overflow-hidden relative">
             <img
-              src="/lovable-uploads/15c3de0b-1791-42fd-a3c6-d63dc3e69fc4.png"
+              src="/palmentar-web-main/images/img7.png"
               alt="Advanced SABA Technology"
               className="w-full h-48 object-cover rounded-xl mb-6"
             />
